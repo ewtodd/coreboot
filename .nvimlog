@@ -1,0 +1,2 @@
+WARN  2025-10-04T16:28:41.102 18101 log_path_init:95: Failed to create directory /.cache for writing logs: Unknown system error 1
+WARN  2025-10-26T17:01:28.218 6     log_path_init:95: Failed to create directory /.cache for writing logs: Unknown system error 1
